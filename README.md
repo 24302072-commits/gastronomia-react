@@ -1,5 +1,7 @@
 # React + Vite
 
+esta es una practica muy sencilla de la creacion de pagina estatica potenciada con react y el uso de las apis
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
